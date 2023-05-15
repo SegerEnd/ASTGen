@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ASTGen.cpp" />
+    <ClCompile Include="Program.cpp" />
     <ClCompile Include="ASTNode.cpp" />
     <ClCompile Include="Generator.cpp" />
   </ItemGroup>
